@@ -1,0 +1,16 @@
+body{
+    background: url('images/bg.png') no-repeat;
+}
+.login-box, .diposit-frm, .withdraw-frm{
+    background: rgba(255,255,255, 0.9);
+    box-shadow: 0px 0px 10px lightgray;
+}
+.login-box input, .diposit-frm input, .withdraw-frm input{
+    background-color: transparent;
+}
+#transaction-area{
+    display: none;
+}
+.diposit{
+
+}
